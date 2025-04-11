@@ -1,0 +1,7 @@
+{
+    "network_interface": "eth0",
+    "victim_ip": "192.168.1.10",
+    "router_ip": "192.168.1.1",
+    "spoofed_ip": "192.168.1.100",
+    "new_mac": "00:11:22:33:44:55"
+} 
